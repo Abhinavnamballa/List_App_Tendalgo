@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e888b9a0180921c4d50af534f60848cf",
+    "revision": "f0357dad1dfa8d0269dd973faea6b8b8",
     "url": "/List_App_Tendalgo/index.html"
   },
   {
