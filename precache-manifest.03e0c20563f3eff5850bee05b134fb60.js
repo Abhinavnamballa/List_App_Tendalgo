@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4b8d919c1457b120692962bf61f08b6",
+    "revision": "e888b9a0180921c4d50af534f60848cf",
     "url": "/List_App_Tendalgo/index.html"
   },
   {
-    "revision": "d92b46ddac357aac7018",
-    "url": "/List_App_Tendalgo/static/css/main.c90795bd.chunk.css"
+    "revision": "e147ebbb1beebb1a33a0",
+    "url": "/List_App_Tendalgo/static/css/main.85eb96e2.chunk.css"
   },
   {
     "revision": "3cdbb75ffce5e758371d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/List_App_Tendalgo/static/js/2.606ba6f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d92b46ddac357aac7018",
+    "revision": "e147ebbb1beebb1a33a0",
     "url": "/List_App_Tendalgo/static/js/main.2478e782.chunk.js"
   },
   {
