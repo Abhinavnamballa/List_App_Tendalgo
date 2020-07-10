@@ -1,7 +1,7 @@
 {
-  "homepage": "http://abhinavnamballa.github.io/List_App_Tendalgo",
   "name": "List_App_Tendalgo",
   "version": "1.0.0",
+  "homepage": "https://abhinavnamballa.github.io/List_App_Tendalgo/",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "repository": {
