@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/List_App_Tendalgo/static/css/main.c90795bd.chunk.css",
+    "main.js": "/List_App_Tendalgo/static/js/main.2478e782.chunk.js",
+    "main.js.map": "/List_App_Tendalgo/static/js/main.2478e782.chunk.js.map",
+    "runtime-main.js": "/List_App_Tendalgo/static/js/runtime-main.fef51042.js",
+    "runtime-main.js.map": "/List_App_Tendalgo/static/js/runtime-main.fef51042.js.map",
+    "static/js/2.606ba6f1.chunk.js": "/List_App_Tendalgo/static/js/2.606ba6f1.chunk.js",
+    "static/js/2.606ba6f1.chunk.js.map": "/List_App_Tendalgo/static/js/2.606ba6f1.chunk.js.map",
+    "index.html": "/List_App_Tendalgo/index.html",
+    "precache-manifest.1ee1ed5fa290fbb1ba89bd0bc370c76c.js": "/List_App_Tendalgo/precache-manifest.1ee1ed5fa290fbb1ba89bd0bc370c76c.js",
+    "service-worker.js": "/List_App_Tendalgo/service-worker.js",
+    "static/css/main.c90795bd.chunk.css.map": "/List_App_Tendalgo/static/css/main.c90795bd.chunk.css.map",
+    "static/js/2.606ba6f1.chunk.js.LICENSE.txt": "/List_App_Tendalgo/static/js/2.606ba6f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fef51042.js",
+    "static/js/2.606ba6f1.chunk.js",
+    "static/css/main.c90795bd.chunk.css",
+    "static/js/main.2478e782.chunk.js"
+  ]
+}
